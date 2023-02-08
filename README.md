@@ -1,6 +1,6 @@
 # ECG Analyzer
 
-This project is made to classify ECG data. This algorithm can recognize normal sinus rhythm, atrial fibrillation (AF), an alternative rhythm, or is too noisy to be classified. More information about the data can be found here https://physionet.org/content/challenge-2017/1.0.0/.
+This project is made to classify ECG data. This algorithm can recognize normal sinus rhythm, atrial fibrillation (AF), an alternative rhythm, or is too noisy to be classified. More information about the data can be found [here](https://physionet.org/content/challenge-2017/1.0.0/).
 
 
 If you want to use this algorithm, you need to:
