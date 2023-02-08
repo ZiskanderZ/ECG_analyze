@@ -6,7 +6,7 @@ This project is made to classify ECG data. This algorithm can recognize normal s
 If you want to use this algorithm, you need to:
 1. Download files `ECG_classificator.py` and `model.pt`
 2. Install required libraries
-3. Run ECG_classificator.py and go to the web page
+3. Run `ECG_classificator.py` and go to the web page
 4. Normalize your data and upload it to the site (you can find an example of how the data should look like in the validation folder, `data.csv`).
 5. Click `Analyze`
 
