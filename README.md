@@ -15,3 +15,4 @@ If you want to test the algorithm, you can do 1, 2, 3 from the previous point an
 In the file `analyze_data.ipynb` you can find my data mining and algorithm development
 
 ## Representation of the algorithm
+![image](https://github.com/ZiskanderZ/ECG_analyze/blob/e70bb3d094cb08728350d65e8c669689f24032f9/1.gif)
