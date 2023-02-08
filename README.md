@@ -13,3 +13,5 @@ If you want to use this algorithm, you need to:
 If you want to test the algorithm, you can do 1, 2, 3 from the previous point and use the data in the validation folder (`data.csv` - ECG data, `target.csv` - correct answers).
 
 In the file `analyze_data.ipynb` you can find my data mining and algorithm development
+
+## Representation of the algorithm

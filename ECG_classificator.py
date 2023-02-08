@@ -67,7 +67,7 @@ def pred_class(file):
 
     # load the model
     model = CNN()
-    state_dict = torch.load('model.pt')
+    state_dict = torch.load('model.pt', map_location='cpu')
     model.load_state_dict(state_dict)
 
     pred = torch.argmax(model(features.view(-1, 1, 2000))[0])
